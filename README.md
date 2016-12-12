@@ -1,2 +1,3 @@
 # hello-world
-a new repo
+hii everyone
+namrata here . its fun learning new things
